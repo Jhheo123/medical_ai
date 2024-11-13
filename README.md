@@ -1,6 +1,9 @@
 # medical_ai
 ### 최종 성능 결과
-- AUROC: 0.9333, AUPRC: 0.5329 (model_epoch_6.pth 기준)
+- AUROC: 0.9371, AUPRC: 0.5429 (model_epoch_7.pth 기준)
+```bash
+workspace/log/test_ag_log_4_model_7.txt
+```
 - weight 값 위치
 ```bash
 workspace/models_weight/model_epoch_7.pth
